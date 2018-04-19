@@ -1,0 +1,18 @@
+.tropical{
+  text-align: left;
+
+}
+.popular{
+  text-align: right;
+}
+.title{
+  text-align: center;
+  font-style: italic;
+}
+.desc{
+  text-align: center;
+}
+img{
+  width: 35%;
+  height: auto;
+}
